@@ -1,0 +1,14 @@
+telethon
+telethon-session-sqlalchemy
+pyfiglet
+requests
+DateTime
+gitpython
+aiohttp
+aiofiles
+beautifulsoup4
+wheel
+setuptools
+speedtest-cli
+pyrogram
+user_agent
