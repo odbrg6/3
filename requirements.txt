@@ -12,3 +12,6 @@ setuptools
 speedtest-cli
 pyrogram
 user_agent
+telebot
+Image
+ImageOps
